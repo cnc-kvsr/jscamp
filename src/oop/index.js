@@ -27,3 +27,4 @@ class CorporateCustomer extends Customer{
         this.companyName=companyName
     }
 }
+
